@@ -1,5 +1,3 @@
-[![MasterHead](https://imgs.search.brave.com/LIdDQRPPRh0fPb0tdMq7jqnMDvEez4WTIUr9umrtGB8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvaGlyaW5nLWFw/cC1iYW5uZXItdGVt/cGxhdGVfMjMtMjE1/MTk3NTIwNS5qcGc_/c2VtdD1haXNfaHli/cmlkJnc9NzQwJnE9/ODA)](https://Nadesh.io)
-
 <h1 align="center">Hi 👋, I'm Nadeshan</h1>
 <h3 align="center">UI/UX developer, Student + builder, JEE aspirant who codes.</h3>
 
