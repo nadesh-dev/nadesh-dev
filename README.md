@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on🔭 I’m currently working on FOCUS(My own Startup Idea)<br><br>🌱 I’m currently learning , Python and problem-solving through small projects while balancing CBSE + JEE prep.<br><br>💬 Ask me about Any Tech Related !<br><br>📫 How to reach me theone.nadeshan@gmail.com<br><br>⚡ Fun fact I’m a JEE aspirant who codes between study sessions and Trying to be polymath<br>
+🔭 I’m currently working on FOCUS(My own Startup Idea)<br><br>🌱 I’m currently learning , Python and problem-solving through small projects while balancing CBSE + JEE prep.<br><br>💬 Ask me about Any Tech Related !<br><br>📫 How to reach me theone.nadeshan@gmail.com<br><br>⚡ Fun fact I’m a JEE aspirant who codes between study sessions and Trying to be polymath<br>
 
 
 ## 🌐 Socials:
